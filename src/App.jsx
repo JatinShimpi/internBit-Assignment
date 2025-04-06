@@ -2,7 +2,7 @@ import React from "react";
 import Notes from "./notes";
 import { BrowserRouter, Route, Router, Routes } from "react-router";
 import SignIn from "./signinpage";
-import ProtectedRoute from "./PRotectedRoute";
+import ProtectedRoute from "./ProtectedRoute";
 import Signup from "./Signup";
 
 const App = () => {
