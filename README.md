@@ -5,4 +5,4 @@ To run this project you need to have node installed on your system.
 2. run `npm install`
 3. run `npm run dev`
 
-to view the deployment of this project click [here](project click [here](https://marvelous-cranachan-2881e8.netlify.app/)
+to view the deployment of this project click [here](https://marvelous-cranachan-2881e8.netlify.app/)
