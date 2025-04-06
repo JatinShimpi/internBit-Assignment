@@ -1,0 +1,3 @@
+[build.environment]
+  VITE_SUPABASE_URL="https://kpopxwqogbnbdkuyzido.supabase.co"
+  VITE_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtwb3B4d3FvZ2JuYmRrdXl6aWRvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM5NDk4ODMsImV4cCI6MjA1OTUyNTg4M30.hlQ3vdXEh6QlRbi3ZoHZw8vX_PR5u7ddYI2IJD1h8XY"
